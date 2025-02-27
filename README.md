@@ -6,7 +6,7 @@ This is a **Flappy Bird** game developed by following [this YouTube tutorial](ht
 
 ## 📋 Features
 
-- Classic **Flappy Bird** mechanics — tap/flap to keep the bird in the air.
+- Classic **Flappy Bird** mechanics — Press the Space bar to keep the bird in the air.
 - Endless gameplay with randomly generated pipes.
 - Score counter to track progress.
 - Basic collision detection.
